@@ -13,3 +13,6 @@ npm install {Dependencies}
 
 # How To Use
 Open config.json edit the Prefix and Token
+
+# People Who Helped Out
+NoSighz,  stupid quackers
